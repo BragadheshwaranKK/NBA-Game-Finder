@@ -17,7 +17,7 @@ NBA Game Finder is a Java application that helps basketball fans discover upcomi
 ## Future Plans (V2.0+)
 
 - Send notifications when recommended games are about to start.
-- Allow users to select their favorite NBA players.
+- Allow users to select their favorite NBA players and search for games where they play.
 - Let users bookmark games and build a personal watchlist.
 
 ## Tech Stack
@@ -41,8 +41,13 @@ NBA Game Finder is a Java application that helps basketball fans discover upcomi
 
 ## Project Documentation
 
-- [Eisenhower Matrix](docs/eisenhower-matrix.md)
-- System Diagram: `docs/system-diagram.png` (to be uploaded from the student-created draw.io diagram)
+- [Eisenhower Matrix](docs/eisenhower-matrix.md) ([completed PDF](docs/MVP-Eis.pdf), once uploaded)
+- System Flowchart (PNG): `docs/system-diagram.png` (upload your original export)
+- Editable flowchart source: `docs/system-diagram.drawio` (export the original from draw.io and upload)
+
+### System Flowchart
+
+![NBA Game Finder System Flowchart](docs/system-diagram.png)
 
 ## Project Structure
 
