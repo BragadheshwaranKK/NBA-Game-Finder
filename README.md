@@ -41,13 +41,13 @@ NBA Game Finder is a Java application that helps basketball fans discover upcomi
 
 ## Project Documentation
 
-- [Eisenhower Matrix](docs/eisenhower-matrix.md) ([completed PDF](docs/MVP-Eis.pdf), once uploaded)
-- System Flowchart (PNG): `docs/system-diagram.png` (upload your original export)
-- Editable flowchart source: `docs/system-diagram.drawio` (export the original from draw.io and upload)
+- [Eisenhower Matrix](docs/eisenhower-matrix.md) ([completed PDF](docs/MVPEisenhower.pdf), uploaded)
+- System Flowchart (PNG): `docs/SystemDiagram.png` (upload your original export)
+- Editable flowchart source: `docs/SystemDiagram.drawio` (export the original from draw.io and upload)
 
 ### System Flowchart
 
-![NBA Game Finder System Flowchart](docs/system-diagram.png)
+![NBA Game Finder System Flowchart](docs/SystemDiagram.png)
 
 ## Project Structure
 
